@@ -1,8 +1,8 @@
->> Equal Weights
+## Equal Weights
 This project implements an Equal Weight Portfolio Strategy using Python. Instead of allocating capital based on market capitalization, each stock in the portfolio receives an equal percentage of the total investment amount.
 The project demonstrates how quantitative investing principles can be applied using Python, Pandas, and financial market data.
 
->> Project Workflow
+## Project Workflow
 
 1. Load Top 50 Indian Stocks Dataset
 2. Retrieve latest market prices
@@ -12,7 +12,7 @@ The project demonstrates how quantitative investing principles can be applied us
 6. Generate final portfolio recommendations
 
 
->> Example
+## Example
 
 Given:
 
@@ -25,7 +25,7 @@ Allocation per stock:
 $10,000 / 20 = $500
 
 
->> Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
